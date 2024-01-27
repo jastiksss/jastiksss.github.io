@@ -20,11 +20,11 @@ author: Никита Авхимович
 ###############################################
 
 navbar-links:
-  About Me: "Обо мне"
+  About Me: "aboutme"
   Resources:
     - 123: ""
     - 123: ""
-  Author's home: ""
+  Author's home: "jastiksss.github.io"
 
 ################
 # --- Logo --- #
