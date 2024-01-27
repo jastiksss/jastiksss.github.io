@@ -10,6 +10,9 @@
           {% endfor %}
         </div>
       {% endif %}
+      {{ site.author }}
+      &nbsp;&bull;&nbsp;
+      {% endif %}
       <p class="copyright text-muted">
       {% if site.author %}
       {{ site.time | date: '%Y' }}
