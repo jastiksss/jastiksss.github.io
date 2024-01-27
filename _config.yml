@@ -20,11 +20,11 @@ author: Никита Авхимович
 ###############################################
 
 navbar-links:
+  Главная: "jastiksss.github.io"
   Обо мне: "aboutme"
 ##  Resources:
 ##   - 123: ""
 ##    - 123: ""
-  Главная: "jastiksss.github.io"
 
 ################
 # --- Logo --- #
@@ -91,9 +91,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -256,7 +256,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Novosibirsk"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
