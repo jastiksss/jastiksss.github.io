@@ -12,13 +12,10 @@
       {% endif %}
       <p class="copyright text-muted">
       {% if site.author %}
-        {{ site.author }}
-        &nbsp;&bull;&nbsp;
-      {% endif %}
       {{ site.time | date: '%Y' }}
       {% endif %}
-
       </p>
+        
       {% unless site.remove-ads %}<p class="theme-by text-muted">
       Разработано Никитой Авхимовичем
       </p>{% endunless %}
