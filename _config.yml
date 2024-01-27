@@ -20,11 +20,11 @@ author: Никита Авхимович
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Обо мне"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - 123: ""
+    - 123: ""
+  Author's home: ""
 
 ################
 # --- Logo --- #
@@ -52,11 +52,11 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+  facebook: 
+  github: 
+  twitter:
+  patreon: 
+  youtube: ""
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
