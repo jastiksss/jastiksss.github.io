@@ -36,7 +36,7 @@ layout: page
       {% endif %}
       {% endif %}
 
-      <a href="{{ post.url | absolute_url }}">
+        <a href="{{ post.url | absolute_url }}">
         <h2 class="post-title">{{ post.title | strip_html }}</h2>
 
         {% if post.subtitle %}
@@ -76,7 +76,7 @@ layout: page
         {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Читать&nbsp;далее]</a>
         {% endif %}
       </div>
       {% endunless %}
