@@ -4,8 +4,8 @@ title: Sample blog post to learn markdown tips
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 tags: [Тест]
-comments: true
 author: Bill Smith
+comments: true
 ---
 
 {: .box-success}
